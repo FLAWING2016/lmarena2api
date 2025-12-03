@@ -51,6 +51,7 @@ var ModelRegistry = map[string]ModelInfo{
 	"dall-e-3":                                  {"dall-e-3", "bb97bc68-131c-4ea4-a59e-03a6252de0d2", "image"},
 	"recraft-v3":                                {"recraft-v3", "b70ab012-18e7-4d6f-a887-574e05de6c20", "image"},
 	"flux-1.1-pro":                              {"flux-1.1-pro", "9e8525b7-fe50-4e50-bf7f-ad1d3d205d3c", "image"},
+	"gemini-3-pro-image-preview-2k":             {"gemini-3-pro-image-preview-2k", "019ae1f4-abcb-7a1a-b712-e911238a91b4", "image"}
 }
 
 // 通过 model 名称查询的方法
